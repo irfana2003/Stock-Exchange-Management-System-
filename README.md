@@ -1,1 +1,1 @@
-# Stock-Exchange-Management-System-
+# Stock-Exchange-Management-System
